@@ -25,7 +25,7 @@ class WeightedIntervalScheduling(object):
         return p
 
 
-    def compute_opt(self, J):
+    def compute_opt(self, j):
 
         if j == -1:
             
